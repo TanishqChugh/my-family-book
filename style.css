@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#firstp {
+    font-variant: small-caps;
+    word-spacing: 5 px;
+    font-size: 50px;
+    font-style: italic;
+}
+
+#familymembers {
+    font-size: 40px;
+}
+
+#album {
+    width: 600px;
+}
+
+button {
+    width: 50;
+}
+
+#membertext {
+    font-size: 60px;
+}
